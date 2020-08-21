@@ -1,2 +1,3 @@
 # python-send-mail
-python code to send email
+
+A simple Python code to send email
