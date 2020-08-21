@@ -5,8 +5,8 @@ from email.mime.text import MIMEText
 from email.mime.image import MIMEImage
 import sys
 
-SENDER_EMAIL = "collins.orighose@ecs.co.uk"
-SENDER_NAME =  "collins.orighose@ecs.co.uk"
+SENDER_EMAIL = "collinsorighose@outlook.com"
+SENDER_NAME =  "collinsorighose@outlook.com"
 
 def main():
     RECIPIENT_EMAIL = sys.argv[1]
